@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorvync",
+        "uuid": 22361860,
+        "checksum": "pqs2ri"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
